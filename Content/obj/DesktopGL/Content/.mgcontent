@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Cloud/Cloud_Layer1_001.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Cloud/Cloud_Layer1_002.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Cloud/Cloud_Layer1_003.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Cloud/Cloud_Layer2_001.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Cloud/Cloud_Layer2_002.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Cloud/Cloud_Layer2_003.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Dask_Backgourd.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Decorations/Door_Left.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Decorations/Door_Right.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Decorations/MountedLight2.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Decorations/SecurityCam.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/AttackL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/AttackR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/DeathL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/DeathR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/HitL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/HitR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/IdleL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/IdleR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/RunL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Drone/RunR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/iyezoz.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/DeathL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/DeathR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/IdelNextWallL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/IdelNextWallR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/RollEL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/RollER.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/RollLL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/RollLR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/RollSL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/RollSR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/SlideL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/SlideR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/WallLeapLL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/WallLeapLR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/WallLeapSL.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/MainChar/FullBody/WallLeapSR.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Placeholder_Char.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/PromotionalArtWork.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/rotatetrans.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/SpriteSheet-C64Dizzy.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tile_006.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/Crate/Crate01.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/Crate/Crate02.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/Crate/Crate03.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/Crate/Crate04.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/empty.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/Exit/Exit.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Corner_BottomLeft.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Corner_BottomRight.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Corner_TopLeft.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Corner_TopRight.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Interior_Base.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Interior_Bottom.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Interior_Left.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Interior_Right.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorBase/Interior_Top.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/InteriorNC/Interior_Background_Plain.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/MetalTile/Base.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/MetalTile/Bottom.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/MetalTile/Left.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/MetalTile/Right.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/MetalTile/Top.png</File>
+    <File>/home/frozennothing/programming/autonomy/Autonomy0.1/Autonomy/Content/Graphics/Tiles/Platforms/Platform.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

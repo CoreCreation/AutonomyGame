@@ -1,0 +1,14 @@
+﻿using System.Reflection;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyTitle("Autonomy0.1")]
+[assembly: AssemblyProduct("Autonomy0.1")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyCompany("CoreCreationStudios")]
+[assembly: AssemblyCopyright("Copyright ©  2013")]
+[assembly: AssemblyTrademark("")]
+[assembly: ComVisible(false)]
+[assembly: Guid("fb8ad220-738c-4192-a03b-6350d345daa7")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.0")]
